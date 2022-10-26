@@ -16,7 +16,7 @@
 
 ## Live Demo 
 
- - GitHub: [live demo]( https://ahmadigu.github.io/Desktop_Portfolio/)
+ - GitHub: [live demo]( https://ahmadigu.github.io/Global_streaming/)
 
 ## Authors
 
