@@ -146,26 +146,37 @@ function eventDisplayed(num) {
   const number = array[num];
   categoryContainer.innerHTML = `
 <h2 class="category-title">${number.title}</h2>
+<hr>
 <!-- card-section-1 ------------------- -->
 <div class="card-section section-1">
   <div class="card">
-    <div class="image">
-      <img src="${number.categoryEvents[0].imageSrc}" alt="image">
+  <div class="image">
+  <div class="image1">
+    <img src="${number.categoryEvents[0].imageSrc}" alt="image">
     </div>
+    <div class="image2">
+    </div>
+  </div>
     <div class="description">
       <p class="date">${number.categoryEvents[0].date}</p>
       <p><a class="headline" href="#">${number.categoryEvents[0].headline}</a></p>
+      <hr>
       <p class="text">${number.categoryEvents[0].text}</p>
       <p class="views">${number.categoryEvents[0].views}</p>
     </div>
   </div>
   <div class="card">
-    <div class="image">
-      <img src="${number.categoryEvents[1].imageSrc}" alt="image">
+  <div class="image">
+  <div class="image1">
+    <img src="${number.categoryEvents[1].imageSrc}" alt="image">
     </div>
+    <div class="image2">
+    </div>
+  </div>
     <div class="description">
       <p class="date">${number.categoryEvents[1].date}</p>
       <p><a class="headline" href="#">${number.categoryEvents[1].headline}</a></p>
+      <hr>
       <p class="text">${number.categoryEvents[1].text}</p>
       <p class="views">${number.categoryEvents[1].views}</p>
     </div>
@@ -175,22 +186,33 @@ function eventDisplayed(num) {
 <div class="card-section section-2 ">
   <div class="card">
     <div class="image">
+    <div class="image1">
       <img src="${number.categoryEvents[2].imageSrc}" alt="image">
+      </div>
+      <div class="image2">
+      </div>
     </div>
+    
     <div class="description">
       <p class="date">${number.categoryEvents[2].date}</p>
       <p><a class="headline" href="#">${number.categoryEvents[2].headline}</a></p>
+      <hr>
       <p class="text">${number.categoryEvents[2].text}</p>
       <p class="views">${number.categoryEvents[2].views}</p>
     </div>
   </div>
   <div class="card">
-    <div class="image">
-      <img src="${number.categoryEvents[3].imageSrc}" alt="image">
+  <div class="image">
+  <div class="image1">
+    <img src="${number.categoryEvents[3].imageSrc}" alt="image">
     </div>
+    <div class="image2">
+    </div>
+  </div>
     <div class="description">
       <p class="date">${number.categoryEvents[3].date}</p>
       <p><a class="headline" href="#">${number.categoryEvents[3].headline}</a></p>
+      <hr>
       <p class="text">${number.categoryEvents[3].text}</p>
       <p class="views">${number.categoryEvents[3].views}</p>
     </div>

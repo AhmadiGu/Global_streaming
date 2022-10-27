@@ -1,3 +1,4 @@
+# Microverse first capstone
 # Global_streaming 
 
 > Project Description.
@@ -13,15 +14,25 @@
 - JavaScript
 - dynamic objects
 
+## Getting Started
+To get a local copy up and running follow these simple example steps.
+
+## Prerequisites
+You must have a code compiler installed on your machine such as (VS code or Atom).
+
+## Setup
+- Open your code editor.
+- Press cmd + shift + P and type gitclone and choose the first option.
+- Paste the repo link inside the field and press enter.
 
 ## Live Demo 
 
  - GitHub: [live demo]( https://ahmadigu.github.io/Global_streaming/)
 
-## Authors
-
-👤 **Author1**
-
+## Project walkthrough link on Loom
+- Loom: (https://www.loom.com/share/7acaa11fa4fa4822baf18bbcb90f8425)
+## Author
+  
 - GitHub: [@githubhandle](https://github.com/AhmadiGu/)
 - Twitter: [@twitterhandle](https://twitter.com/ Gulalai Ahmadi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Gulalai Ahmadi/)
