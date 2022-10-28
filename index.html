@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <meta name="description" content="Global Streaming is live-streaming website that allow users to record and broadcast video simultaneously.">
+
+    
+    <!-- Font Awesome kit Code-------- -->
+    <script
+      src="https://kit.fontawesome.com/b21ce73c3c.js"
+      crossorigin="anonymous"
+    ></script>
+
+   <!-- Google fonts ------- -->
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;900&display=swap" rel="stylesheet">
+   
+   
+
+    <!-- local style links-->
+    <link rel="icon" href="images/logo.png" />
+     <link rel="stylesheet" href="./css/home.css">
+    
+    <title> Global Streaming </title>
+</head>
+<body>
+    <header class="header">
+        <!-- top menu start-->
+        <div class="top-menu">
+            <ul class="top-menu-ul">
+                <li class="a"> <a href=""> <span class="fa fa-facebook"></span>
+                </a></li>
+                <li class="a"> <a href=""> <span class="fa fa-twitter"></span></a></li>
+                <li class="a"> <a href=""> English</a></li>
+                <li class="a"> <a href=""> Mypage</a></li>
+                <li class="a"> <a href=""> Logout</a></li>
+            </ul>
+        </div>
+         <!-- menu start-->
+        <nav class="main-menu">
+           <a href="index.html"> <img src="./images/logo.png" alt="logo"> <p> Global <span> Streaming</span> </p></a>
+           <span class="icon">
+            <span class="fa fa-bars"   aria-hidden="true"></span>
+            <span class="fa fa-times"   aria-hidden="true"></span>
+           </span>
+            <ul class="main-menu-ul">
+                <li><a href="index.html" class="active"> Home</a></li>
+                <li> <a href="about.html"> About </a></li>
+                <li> <a href="#"> Live_Streaming </a></li>
+                <li class="disapper"> <a href="#event-categories"> Event </a></li>
+                <li class="disapper"> <a href="#">  Logout </a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- headline start-->
+        <section class="headline" id="headline">
+            <div class="back"></div>
+            <div class="explain">
+             <p class="p1">"Welcom hearing!"</p>
+             <h1>CREATE AND STREAM LIVE WORLDWIDE POPULAR EVENTS</h1>
+            <p class="p2">
+                Hello, you are at the right website to get your audio recodings, event
+                 coverage and videos streamed live to the people around the world. Hear we grant
+                 users access to create, modify and publish events and audio podcast with high quality.
+            </p>
+            <div class="trending">
+                <h3><i>Trending Today</i></h3>
+                <h3 class="topic">Transition into tech BY Dennis Ritchie </h3>
+                <p class="date">October-2022-28(FRI) ~ 29(SAT)</p>
+                <p class="venue">@National Meseum of Korea. <em>Stream live @www.global-streaming.org</em</p>
+              </div>
+            </div>
+        </section>
+        <!-- events start-->
+         <section class="cards" id="event-categories"> 
+         <h4>Upcoming Events</h4>
+         <hr class="hr">
+         <div class="card-content event-card">
+         <div class="card">
+            <div class="title-img">
+                <div class="image">
+                    <span class="fa-solid fa-newspaper"></span>
+                </div>
+                <p class="title1">News</p>
+            </div>
+            <p class="card-description ">
+            <a href="#category-display" id="news" class="clicable-card news">Information that is published in newspapers 
+                and broadcast on radio and television about 
+                recent events in the country or world or in a particular area of activity.</a>
+            </p>
+        </div>
+         <div class="card">
+            <div class="title-img">
+                <div class="image">
+                    <span class="fa fa-music me"></span>
+                </div>
+                <p class="title1">Entertainment</p>
+            </div>
+            <p class="card-description ">  
+            <a href="#category-display" id="entertainment" class="clicable-card entertainment">These events are form of 
+                activities that holds the attention and interest of an 
+                audience or gives pleasure and delight.</a>
+            </p>
+         </div>
+         <div class="card">
+            <div class="title-img">
+                <div class="image">
+                    <span class="fa fa-book me"></span>
+                </div>
+                <p class="title1"> Education</p>
+            </div>
+            <p class="card-description "> 
+            <a href="#category-display" id="education" class="clicable-card education"> Events purposeful activity directed at achieving 
+                certain aims, such as transmitting 
+                knowledge or fostering skills and character traits</a>
+            </p>
+         </div>
+         <div class="card">
+            <div class="title-img">
+                <div class="image">
+                    <span class="fa-sharp fa-solid fa-basketball"></span>
+                </div>
+                <p class="title1"> Sports</p>
+            </div>
+            <p class="card-description ">  
+            <a href="#category-display" id="sports" class="clicable-card sports"> Events involving physical exertion and skill 
+                 in which an individual or team competes 
+                 against another or others for entertainment</a></p>
+         </div>
+        </div>
+        <a href="#category-display" class="see-category"> See Selected events category</a> 
+        </section> 
+      <!-- category-display card section---------------- -->
+      <section id="category-display"></section>  
+      <!-- other categories section-------------- -->
+      <section class="other-categories">
+        <h4> Other Categorie </h4>
+        <hr class="hr">
+        <ul>
+            <li> <span class="fa-regular fa-clock"></span> History</li> 
+            <li class="disable"><span class="fa-solid fa-dumbbell"></span> Fitness</li>
+            <li><span class="fa-solid fa-person-chalkboard"></span> Presentation</li>
+            <li class="disable"><span class="fa-solid fa-face-grin-tongue-wink"></span> Jokes</li>
+            <li><span class="fa-solid fa-person-falling-burst"></span> Comic</li>
+        </ul> 
+      </section>
+    </main>
+    <footer class="footer">
+        <div>
+        <a href="#index.html"> <img class="img" src="./images/logo.png" alt="logo"> 
+            <p class="logo"> Global <span> Streaming</span> </p></a>
+        </div>
+        <div class="footer-copyright container">
+            <p>&copy; 2022 Global Streaming</p>
+            <p>Author : Progress C. Ezeamaka</p>
+          </div>
+    </footer>
+   <!-- script links-->
+   <script src="script/cards.js" type="text/javascript"></script>
+   <script src="script/menu.js" type="text/javascript"></script>
+</body>
+ 
+</html>
