@@ -30,11 +30,11 @@ You must have a code compiler installed on your machine such as (VS code or Atom
  - GitHub: [live demo] https://ahmadigu.github.io/Global_streaming/
 
 ## Project walkthrough link on Loom
-- Loom: (https://www.loom.com/share/7acaa11fa4fa4822baf18bbcb90f8425)
+- Loom: (https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3)
 ## Author
   
-- GitHub: [@githubhandle](https://github.com/AhmadiGu/)
-- Twitter: [@twitterhandle](https://twitter.com/ Gulalai Ahmadi)
+- GitHub: [@github](https://github.com/AhmadiGu/)
+- Twitter: [@twitter](https://twitter.com/ Gulalai Ahmadi)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/Gulalai Ahmadi/)
  
 
