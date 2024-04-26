@@ -1,8 +1,8 @@
 # Microverse first capstone
 # Global_streaming 
 
-> Project Description.
-> **This is Global Streaming project created using html, css,JavaScript . It is in responsive and dynamic view in 2 different pages home and about. It uses  flex-box, media Quries, float and positions to display the html page and JavScript functions for dynamic display. It contains headline and also the events, footer, about sections and some information in about me and contact  part. It uses a design guide  from microverse student portal..**
+> **Project Description:**
+> This is Global Streaming project created using html, css,JavaScript . It is in responsive and dynamic view in 2 different pages home and about. It uses  flex-box, media Quries, float and positions to display the html page and JavScript functions for dynamic display. It contains headline and also the events, footer, about sections and some information in about me and contact  part. It uses a design guide  from microverse student portal..**
 
 
 ## Built With
