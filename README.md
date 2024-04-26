@@ -31,7 +31,7 @@ You must have a code compiler installed on your machine such as (VS code or Atom
  
 
 ## Project walkthrough  
-
+<p>me</p>
 <video width="100%" height="340" controls>
   <source src="./images/Global_streaming.mp4" type="video/mp4">
 </video> 
@@ -41,7 +41,7 @@ You must have a code compiler installed on your machine such as (VS code or Atom
 
  Platform | Badge |
  --- | --- |
- **GitHub**  | [@AhmadiGu](https://github.com/AhmadiGu/)
+ **GitHub**  | [AhmadiGu](https://github.com/AhmadiGu/)
  **LinkdIn** | [gulalai-ahmadi](https://www.linkedin.com/in/gulalai-ahmadi)
  
 
