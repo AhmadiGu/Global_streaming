@@ -34,6 +34,7 @@ You must have a code compiler installed on your machine such as (VS code or Atom
 <p>me</p>
 <video width="100%" height="340" controls>
   <source src="./images/Global_streaming.mp4" type="video/mp4">
+  Your browser does not support the video tag.
 </video> 
 
 ## Author 
