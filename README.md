@@ -32,11 +32,14 @@ You must have a code compiler installed on your machine such as (VS code or Atom
 
 ## Project walkthrough 
  - 
- ![](https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3 )
-## Author
-  
-- [Github](https://github.com/AhmadiGu/)
-- [LinkedIn](https://www.linkedin.com/in/gulalai-ahmadi)
+ ![](https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3)
+## Author 
+👤 **Gulalai**
+
+ Platform | Badge |
+ --- | --- |
+ **GitHub**  | [@AhmadiGu](https://github.com/AhmadiGu/)
+ **LinkdIn** | [gulalai-ahmadi](https://www.linkedin.com/in/gulalai-ahmadi)
  
 
 ## 🤝 Contributing
