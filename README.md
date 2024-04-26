@@ -25,14 +25,14 @@ You must have a code compiler installed on your machine such as (VS code or Atom
 - Press cmd + shift + P and type gitclone and choose the first option.
 - Paste the repo link inside the field and press enter.
 
-## Live Demo 
+## Live Demo 🌐
 
- - [live demo](https://ahmadigu.github.io/Global_streaming/)
+ [![Live demo](https://img.shields.io/badge/Heroku-deploy-yellow)](https://ahmadigu.github.io/Global_streaming/)
  
 
 ## Project walkthrough 
- - 
- ![](https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3)
+  https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3
+  
 ## Author 
 👤 **Gulalai**
 
