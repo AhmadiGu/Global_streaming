@@ -34,7 +34,7 @@ You must have a code compiler installed on your machine such as (VS code or Atom
   
 
   <!--[![Watch the video](link_to_thumbnail_image)]([link_to_video](https://www.loom.com/share/c5517f47469d4ea696ff8dc645b230f8?sid=dd323c6c-b571-4b2b-842b-4e1ee7b70fb3))-->
-![](https://raw.githubusercontent.com/AhmadiGu/Global_streaming/main/images/Global_streaming.mp4)
+![](https://user-images.githubusercontent.com/AhmadiGu/Global_streaming/main/images/Global_streaming.mp4)
   
   
 ## Author 
